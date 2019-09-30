@@ -62,7 +62,7 @@ Hello world!
 This is a pen.
 ~~~
 
-## 出力例1
+## 出力例
 ~~~
 This is a pen.
 ~~~
